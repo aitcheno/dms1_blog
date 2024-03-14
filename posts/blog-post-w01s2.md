@@ -1,5 +1,5 @@
 ---
-title: Blog Post #2: Week One Session Two Editing Experiment
+title: Blog Post 2 Week One Session Two Editing Experiment
 published_at: 2024-03-09
 disable_html_sanitization: true
 ---

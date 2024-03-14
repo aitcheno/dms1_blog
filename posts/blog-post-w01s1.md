@@ -31,5 +31,5 @@ snippet:
 ![Study for a sith lord](/w01s1/SithLord.jpg)
 ## We all knew what this one looked like. It was just about finding it, and before too long, we did. It was just like Darth Vaders chambers
 ##
-![International vending machine](/w01s1/Vending Machine.jpg)
+![International vending machine](/w01s1/VendingMachine.jpg)
 ## It was pretty obvious to all of us that this was a vending machine. I figured it was one with international drinks but it was just about finding it. We managed to find it, and I was happy it stocked pocari sweat

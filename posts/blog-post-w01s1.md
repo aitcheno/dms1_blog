@@ -1,6 +1,6 @@
 ---
 title: Blog Post #1: Week One Session One
-published_at: 2022-11-04T15:00:00.000Z
+published_at: 2024-03-06
 snippet:
 ---
 
@@ -31,5 +31,5 @@ snippet:
 ![Study for a sith lord](/w01s1/SithLord.jpg)
 ## We all knew what this one looked like. It was just about finding it, and before too long, we did. It was just like Darth Vaders chambers
 
-![International vending machine](/w01s1/VendingMachine.jpg)
+![International vending machine](/w01s1/Vending Machine.jpg)
 ## It was pretty obvious to all of us that this was a vending machine. I figured it was one with international drinks but it was just about finding it. We managed to find it, and I was happy it stocked pocari sweat

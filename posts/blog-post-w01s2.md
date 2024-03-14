@@ -4,7 +4,7 @@ published_at: 2024-03-09
 disable_html_sanitization: true
 ---
 <iframe width="670" height="377" src="https://www.youtube.com/embed/nZCIIaQbVTo" title="DMS1 30s Clips Output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Above is the output of my editing experiment.
+Above <span style="background-color:green"> is the output of my editing experiment. </span>
 
 I had planned to juxtapose the silence in Milo's video and the noise in my own video through the editing.
 I wanted to make the difference more obvious by increasing the volume on my video after each cut to Milo's

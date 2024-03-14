@@ -1,6 +1,6 @@
 ---
-title: Blog Post #2: Week One Session One Editing Experiment
-published_at: 2022-11-04T15:00:00.000Z
+title: Blog Post #2: Week One Session Two Editing Experiment
+published_at: 2024-03-09
 disable_html_sanitization: true
 ---
 <iframe width="420" height="315"

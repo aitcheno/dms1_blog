@@ -1,6 +1,6 @@
 ---
 title: Blog Post 2 Week One Session Two Editing Experiment
-published_at: 2024-09-03
+published_at: 2024-03-09
 disable_html_sanitization: true
 ---
 <iframe width="670" height="377" src="https://www.youtube.com/embed/nZCIIaQbVTo" title="DMS1 30s Clips Output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

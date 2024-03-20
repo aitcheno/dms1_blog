@@ -3,11 +3,17 @@ title: Blog Post 3 Week Two Session One Storyboarding
 published_at: 2024-03-18
 disable_html_sanitization: true
 ---
-<style>
 body {
-  background-image: url('BlackBox.jpg');
+  background-image: url('https://linesteppers.com/tutorials/RMarkdown/img/BannerImage_TreeBlossoms_4470x3024.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
-</style>
+
+div {
+  background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
+  padding: 0.25em;
+}
+
 
 ![My Dr Strangelove Storyboard](/w02s1/storyboard_strangelove.jpg)
 Above is my storyboard for the ending of Dr. Strangelove drawn in class as an exercise.

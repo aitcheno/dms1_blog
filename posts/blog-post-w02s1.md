@@ -27,7 +27,10 @@ how your approach to editing will contribute to the main theme, concept, action,
 
 
 ## Assignment Update/Progress 20/03: 
-I found myself just noodling on the guitar and suddenly a song 
+I found myself just noodling on the guitar and suddenly a song came to me. I fleshed it out a bit and decided I could use it for my assignment. It was quite sombre so I was working out ways to bring it into the more energetic feeling for the second half. It's currently a work in progress but it is progress and helping guide my 
+
+I'm planning to shoot at Melbourne Uni before next class as it was where I studied last year and is what I'm basing the first half of my video on.
+.
 
 
 

@@ -12,3 +12,10 @@ I wanted to make the difference more obvious by increasing the volume on my vide
 I paced the video by having more time spent on each clip further in the video. in order for the audience to have the contrast further engrained
 
 Overall, this use of pacing and juxtaposition could signify a dislike or invoke a conversation for or about noise pollution
+
+
+
+## Assignment Update/Progress 09/03:
+I have started conceptualising my first assignment. I have brainstormed a few themes I want to focus on and want to have some kind of arc or clear division in storytelling just through the images, pacing and music.  
+
+

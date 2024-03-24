@@ -19,7 +19,7 @@ The second half - triumphant, hopeful
 - I used I II IV progression because to me it sounds very hopeful
 - Steady pulse = certainty
 
-I've deliberately made this choices in the soundtrack to further develop and strengthen the sense of those emotions within the overall piece.
+I've deliberately made these choices in the soundtrack to further develop and strengthen the sense of those emotions within the overall piece.
 
 ### post an updated version of your storyboard that accounts for the sonic elements of your project.
 

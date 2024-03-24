@@ -16,7 +16,7 @@ The first half - melancholic
 
 The second half - triumphant, hopeful
 - Major key = happy
-- I used I II IV progression because to me it sounds very hopeful to me
+- I used I II IV progression because to me it sounds very hopeful
 - Steady pulse = certainty
 
 I've deliberately made this choices in the soundtrack to further develop and strengthen the sense of those emotions within the overall piece.

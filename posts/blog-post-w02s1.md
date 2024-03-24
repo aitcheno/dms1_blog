@@ -4,12 +4,6 @@ published_at: 2024-03-18
 disable_html_sanitization: true
 ---
 
-body {
-  background-image: url(‘https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg’);
-  background-repeat: no-repeat;
-  color: #FFFFFF;
-}
-
 ![My Dr Strangelove Storyboard](/w02s1/storyboard_strangelove.jpg)
 Above is my storyboard for the ending of Dr. Strangelove drawn in class as an exercise.
 
@@ -34,10 +28,10 @@ how your approach to editing will contribute to the main theme, concept, action,
 
 
 ## Assignment Update/Progress 20/03: 
-I found myself just noodling on the guitar and suddenly a song came to me. I fleshed it out a bit and decided I could use it for my assignment. It was quite sombre so I was working out ways to bring it into the more energetic feeling for the second half. It's currently a work in progress but it is progress and helping guide my 
+I found myself just noodling on the guitar and suddenly a song came to me. I fleshed it out a bit and decided I could use it for my assignment. It was quite sombre so I was working out ways to bring it into the more energetic feeling for the second half. It's currently a work in progress but it is progress! 
 
-I'm planning to shoot at Melbourne Uni before next class as it was where I studied last year and is what I'm basing the first half of my video on.
-.
+I'm planning to shoot at Melbourne Uni before next class as it was where I studied last year and is what I'm basing the first half of my self portrait on.
+
 
 
 

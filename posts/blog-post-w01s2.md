@@ -15,7 +15,7 @@ I paced the video by having more time spent on each clip after every cut, in ord
 Overall, this use of pacing and juxtaposition could signify a dislike or invoke a conversation for or about noise pollution
 
 ## Assignment Update/Progress 09/03
-I have started conceptualising the output for the first assignment. I'm planning to go for a more abstract approach, and try not to be too literal about everything shown on screen. I think the more reflective approach will be what I go for. Mainly discussing my growth and feelings coming into the course, while also showing my personality and interests just through what is captured i.e. musical equipment
+I have started conceptualising the output for the first assignment. I'm planning to go for a more abstract approach, and trying not to be too literal about everything shown on screen. I think the more reflective approach will be what I go for. Mainly discussing my growth and feelings coming into the course, while also showing my personality and interests just through what is captured i.e. musical equipment
 
 
 .

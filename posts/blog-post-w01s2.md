@@ -4,7 +4,7 @@ published_at: 2024-03-09
 disable_html_sanitization: true
 ---
 ## My Editing Experiment
-<iframe width="800" height="451" src="https://www.youtube.com/embed/nZCIIaQbVTo" title="DMS1 30s Clips Output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="406" src="https://www.youtube.com/embed/nZCIIaQbVTo" title="DMS1 30s Clips Output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Above is my output for the editing experiment
 
 I had planned to juxtapose the silence in Milo's video and the noise in my own video through the editing.

@@ -1,5 +1,5 @@
 ---
-title: Blog Post #1: Week One Session One Welcome To Digital Media
+title: Blog Post 1 Week One Session One Welcome To Digital Media
 published_at: 2022-11-04T15:00:00.000Z
 snippet:
 ---

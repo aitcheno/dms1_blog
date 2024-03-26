@@ -4,6 +4,9 @@ published_at: 2022-11-04T15:00:00.000Z
 snippet:
 ---
 
+## Our Group Scavenger Hunt
+
+
 ![black box room](/w01s1/BlackBox.jpg)
 ## I found a room called the Black Box on the Lost On Campus app which helped us find this room. 
 
@@ -13,7 +16,7 @@ snippet:
 ![Picture of old melb gaol door](/w01s1/Condemned.jpg)
 ## We found the entrance to the Old Melbourne Gaol as we figured it was "a door for the condemned"
 
-![Bang coffee selfie](/w01s1/Explosive Coffee.jpg)
+![Bang coffee selfie](/w01s1/ExplosiveCoffee.jpg)
 ## We eventually found the cafe Jamie was talking about, out on Swanston Street
 
 ![Selfie at Golden Ball Above Eights](/w01s1/GoldenBall.jpg)

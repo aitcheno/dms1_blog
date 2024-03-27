@@ -26,6 +26,10 @@ I've deliberately made these choices in the soundtrack to further develop and st
 
 ## Assignment Update/Progress 23/03: 
 ADD SCREENSHOTS
+After shooting at Melbourne Uni, I was able to capture some ridiculously obvious symbols, like lotus flowers for my growth theme, young trees or cut trees for the first halfs themes of unsureness. Overall, most of the shots captured will set a location. Now I can complete my storyboard with those shot ideas
+
+
+
 
 
 

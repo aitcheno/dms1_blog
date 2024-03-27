@@ -25,11 +25,11 @@ I've deliberately made these choices in the soundtrack to further develop and st
 
 
 ## Assignment Update/Progress 23/03: 
-ADD SCREENSHOTS
 After shooting at Melbourne Uni, I was able to capture some ridiculously obvious symbols, like lotus flowers for my growth theme, young trees or cut trees for the first half's themes of unsureness. Overall, most of the shots captured will be to set a location. Now I can complete my storyboard with those shot ideas!
 
 I spent some time recording the music for my piece just with acoustic guitar, bass and then drums and piano sounds on my computer. Quite happy with the result. There are two distinct halves with two different emotions. Success. Here is a screenshot of the completed project on Reaper - yes it looks like logic... it's not
 ![Reaper Project](/w02s2/DMS1_Reaper.PNG)
 
+.
 
 

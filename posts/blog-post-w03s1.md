@@ -3,6 +3,11 @@ title: Blog Post 5 Week Three Session One Implementing Audio
 published_at: 2024-03-22
 disable_html_sanitization: true
 ---
+## The First Draft
+<iframe width="720" height="406" src="https://www.youtube.com/embed/WdZC0BMUw38" title="DMS1 30s Clips Output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Above is my first draft
+
+
 1. Based on your storyboard, produce a draft of your video portrait for Assignment 1. It doesn't have to be the finished version, but it should be pretty close.
 
 2. Upload this draft to your YouTube or Vimeo account, post it to your blog, and write a blog post that discusses your process in producing this draft.

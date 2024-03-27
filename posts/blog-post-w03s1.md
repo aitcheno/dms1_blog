@@ -17,7 +17,9 @@ Have now finished my draft. Took some serious time but I'm finally half happy wi
 Above is my first draft; a reflective self-portrait which explores my lack of trajectory last year, compared with the now hopeful, positive feelings I have since starting the Digital Media course.
 
 ## The Process Of Creating This Draft
+![Draft Project](/w03s1/draft_complete.PNG)
 
+.
 
 
 

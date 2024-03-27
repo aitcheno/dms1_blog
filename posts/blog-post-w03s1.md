@@ -9,6 +9,8 @@ disable_html_sanitization: true
 
 3. Prepare a brief written introduction to your work. It should explain your general concept and intentions with the work in a clear, concise, and professional manner. 
 
+This piece is a reflective self-portrait which explores my lack of trajectory last year, and now the hopeful, positive feelings I have about starting the Digital Media course.
+
 4. Place this introduction into the description of your draft on YouTube or Vimeo. Double-check that the link is ready for sharing in class during the next session.
 
 

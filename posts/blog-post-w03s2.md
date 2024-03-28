@@ -16,6 +16,7 @@ I have completed my video piece and now I'm ready to submit.
 <iframe width="720" height="406" src="https://www.youtube.com/embed/jXm4Edh5k4c" title="Self Portrait for DMS1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Here's the description/attributions again just so it's in more than one place
 
+
 This piece is a reflective self-portrait which explores my lack of trajectory last year at The University of Melbourne, compared to the now hopeful, positive feelings I have since starting the Digital Media course at RMIT
 
 Industrial heater piezo 130219_00.flac by klankbeeld (http://www.freesound.org/people/klankbeeld/)

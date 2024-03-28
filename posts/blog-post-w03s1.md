@@ -10,7 +10,7 @@ Here's what I have completed so far
 ![Initial Premiere Project](/w03s1/DMS1_premiere1.PNG)
 
 ## Assignment Update/Progress 25/03: 
-Have now finished my draft. Took some serious time but I'm finally half happy with the result. Had to sub in some footage because I haven't shot the RMIT part due to illness. I'll make sure to go in, film what I need to and put it in. Added footage shot at home because I was quite short on footage for the second half, and a sound effect that wasn't my own at the end that fits nicely. All done. Now I wait for feedback.
+Have now finished my draft. Took some serious time but I'm finally half happy with the result. Had to sub in some footage because I haven't shot the RMIT part due to illness. I'll make sure to go in, film what I need to and put it in. Added footage shot at home because I was quite short on footage for the second half. All done. Now I wait for feedback.
 
 ## The First Draft
 <iframe width="720" height="406" src="https://www.youtube.com/embed/WdZC0BMUw38" title="DMS1 30s Clips Output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -18,7 +18,11 @@ Above is my first draft; a reflective self-portrait which explores my lack of tr
 
 ## The Process Of Creating This Draft
 ![Draft Project](/w03s1/draft_complete.PNG)
+I laid down the audio track first and then built the piece from there
 
+I added all the footage I wanted for a particular section and tried to match it up with what I had planned for on the storyboard. Some things worked and some things didn't so it was just about adjusting, trailing and fixing over and over again. As I said before, I had to shoot a bit more footage than I had so I did so and cut it all together.
+
+Overall, the thing I spent the most time on in completing the draft was getting the timing and pacing of the cuts just right in order to make the piece flow. I did so until I had a finished draft
 .
 
 

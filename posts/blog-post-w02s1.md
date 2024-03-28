@@ -25,11 +25,13 @@ While my aimless filming seemed pointless, I was able to imagine how I could use
 
 
 ## Storyboard for Assignment
-Above is my drafted storyboard for the final video. Half of it was completed March 14th and the other half March 21st
+![Storyboard First Half](/w02s1/sb1.PNG)
+![Storyboard Second Half](/w02s1/sb2.PNG)
+Above is my drafted storyboard for the final video. Half of it was completed March 14th and the other half March 21st. I tried to convey that the pacing in the first half is slow, and in the second half it's faster with shorter shots
 
-how you will establish and maintain continuity?
-how your approach to editing will contribute to the main theme, concept, action, or emotion you hope to offer the viewer.?
+I plan to establish and maintain continuity in my piece by having an omniscient camera, especially in the first half. This means, not having my shadow in the frame to ruin the illusion. As it is a montage, for the main part of the piece, I don't want it to feel as though I am the one behind the camera, except for more personal point of view shots in the second half. Moreover, I want to keep a smooth flow in order to maintain continuity. The shots must be edited in a way to not be jarring otherwise the viewer will be pushed back out of the world I am presenting.
 
+Additionally, I plan to approach the editing in a way that will benefit and solidify the themes, concept and emotions. For the emotions of happiness and triumph in the second half, the editing will be fast paced and form an arch before slowing down in the end, whereas in the more reflective first half, the shots will be longer and far less rapid. For overarching theme of growth, the match cut of a flower blooming will be one of the most obvious ways to portray the theme through editing.
 
 
 ## Assignment Update/Progress 20/03: 

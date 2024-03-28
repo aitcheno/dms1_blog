@@ -27,7 +27,7 @@ While my aimless filming seemed pointless, I was able to imagine how I could use
 ## Storyboard for Assignment
 ![Storyboard First Half](/w02s1/sb1.jpg)
 ![Storyboard Second Half](/w02s1/sb2.jpg)
-Above is my drafted storyboard for the final video. Half of it was completed March 14th and the other half March 21st. I tried to convey that the pacing in the first half is slow, and in the second half it's faster with shorter shots
+Above is my drafted storyboard for the final video. Half of it was completed March 14th and the other half March 23rd. I tried to convey that the pacing in the first half is slow, and in the second half it's faster with shorter shots
 
 I plan to establish and maintain continuity in my piece by having an omniscient camera, especially in the first half. This means, not having my shadow in the frame to ruin the illusion. As it is a montage, for the main part of the piece, I don't want it to feel as though I am the one behind the camera, except for more personal point of view shots in the second half. Moreover, I want to keep a smooth flow in order to maintain continuity. The shots must be edited in a way to not be jarring otherwise the viewer will be pushed back out of the world I am presenting.
 

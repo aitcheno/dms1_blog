@@ -1,7 +1,7 @@
 ---
 title: Blog Post 1 Week One Session One Welcome To Digital Media
 published_at: 2022-11-04T15:00:00.000Z
-snippet:
+disable_html_sanitization: true
 ---
 
 ## Our Group Scavenger Hunt
@@ -36,5 +36,8 @@ snippet:
 
 ![International vending machine](/w01s1/VendingMachine.jpg)
 ## It was pretty obvious to all of us that this was a vending machine. I figured it was one with international drinks but it was just about finding it. We managed to stumble across one, and I was happy it stocked pocari sweat
+
+## 30 Second Footage for Next Class
+<iframe width="720" height="406" src="https://www.youtube.com/embed/uQp_AILLZIg" title="DMS1 Video 30s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 .

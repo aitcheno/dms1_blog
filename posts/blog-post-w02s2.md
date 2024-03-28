@@ -21,8 +21,9 @@ The second half - triumphant, hopeful
 
 I've deliberately made these choices in the soundtrack to further develop and strengthen the sense of those emotions within the overall piece.
 
-### post an updated version of your storyboard that accounts for the sonic elements of your project.
-
+## Updated Storyboard With Sonic Elements
+![Storyboard First Half](/w02s2/sb1s.jpg)
+![Storyboard First Half](/w02s2/sb2s.jpg)
 
 ## Assignment Update/Progress 23/03: 
 After shooting at Melbourne Uni, I was able to capture some ridiculously obvious symbols, like lotus flowers for my growth theme, young trees or cut trees for the first half's themes of unsureness. Overall, most of the shots captured will be to set a location. Now I can complete my storyboard with those shot ideas!

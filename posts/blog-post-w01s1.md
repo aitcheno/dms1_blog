@@ -1,14 +1,14 @@
 ---
+disable_html_sanitization: true
 title: <font color="#9900FF">Blog Post 1 Week One Session One Welcome To Digital Media</font>
 published_at: 2024-03-07
-disable_html_sanitization: true
 ---
 
 ## Our Group Scavenger Hunt
 
 
 ![black box room](/w01s1/BlackBox.jpg)
-## I found a room called the Black Box on the Lost On Campus app which helped us find this room. 
+## <span style="color:blue">I found a room called the Black Box on the Lost On Campus app which helped us find this room. </span>
 
 ![Digital Design books](/w01s1/Books.jpg)
 ## We headed to the library to find the digital design books among many

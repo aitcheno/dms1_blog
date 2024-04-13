@@ -1,5 +1,5 @@
 ---
-title: Blog Post 1 Week One Session One Welcome To Digital Media
+title: <font color="#9900FF">Blog Post 1 Week One Session One Welcome To Digital Media</font>
 published_at: 2024-03-07
 disable_html_sanitization: true
 ---

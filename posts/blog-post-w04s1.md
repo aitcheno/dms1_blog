@@ -12,7 +12,7 @@ The first prompts, order and increase, were relatively simple, but the more abst
 The process reminded me of sonmething I read in Atomic Habits by James Clear about photographers.
 "On the first day of class, Jerry Uelsmann, a professor at the University of Florida, divided his film photography students into two groups.
 
-<font size="-5">Everyone on the left side of the classroom, he explained, would be in the “quantity” group. They would be graded solely on the amount of work they produced. On the final day of class, he would tally the number of photos submitted by each student. One hundred photos would rate an A, ninety photos a B, eighty photos a C, and so on.
+<font size="-3">Everyone on the left side of the classroom, he explained, would be in the “quantity” group. They would be graded solely on the amount of work they produced. On the final day of class, he would tally the number of photos submitted by each student. One hundred photos would rate an A, ninety photos a B, eighty photos a C, and so on.
 
 Meanwhile, everyone on the right side of the room would be in the “quality” group. They would be graded only on the excellence of their work. They would only need to produce one photo during the semester, but to get an A, it had to be a nearly perfect image.
 

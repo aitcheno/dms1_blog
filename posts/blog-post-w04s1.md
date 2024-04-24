@@ -33,4 +33,4 @@ I'll outline my concept through some design thinking just to get my ideas flowin
 Empathise with users - Humans have limited storage in their short term memory and the long term memory is hard to maintain, so an app which documents moments in their life could be appealing to those wanting to hold onto their memories with little effort. 
 
 Define - The user would want and need to document their memories in all different forms, whether it be writing, video, audio or smell. They would want to relive their memories in the most realistic way. This is because human memory is flawed. Many memories become hazy or even untrue, so having a personal database of your life could be beneficial for reflection and your identity. 
-
+.

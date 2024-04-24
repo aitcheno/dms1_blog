@@ -11,7 +11,9 @@ To my eyes, the most effective icon is the one fourth along in the first row. I 
 
 ## My Own Thumbnail Sketches
 Below are the sketches for my own icons. They are each for a different function, and I tried to convey that function through either existing and well known icons or unique creations of my own.
+### Record Live Audio
 ![Record Audio Icon Sketches](/w04s2/audio.jpg)
+This tool is used to turn what you hear into digital sound that will be stored in your devices memory. I thought up existing icons like the old simplistic microphone, as well as the example of an ear to represent sound. 
 ![Download Thoughts Icon Sketches](/w04s2/download.jpg)
 ![Favourite Memory Icon Sketches](/w04s2/favourite.jpg)
 ![Memory Gallery Icon Sketches](/w04s2/gallery.jpg)

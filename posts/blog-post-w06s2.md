@@ -23,4 +23,4 @@ Here is a screenshot of my final uploaded designs in the preview.
 
 Now to begin working on this memory bank enhancer.
 
-[My Finished Icons](https://aitcheno.github.io/Assignment-2/)
+![My Finished Icons](https://aitcheno.github.io/Assignment-2/)

@@ -9,8 +9,8 @@ Here are some screenshots of me trying out HTML.
 I've done this before but it's really great to see a live render of what is happening.
 ![HTML with image](/w05s2/html-image.PNG)
 
-## Reflecing So Far: A Summary Of The Idea
-The Platform: An Mobile App.
+## Reflecting So Far: A Summary Of The Idea
+The Platform: A Mobile App.
 
 Context: With upgrades to neural technology, the sensory messages from your body can be converted to digital pictures and audio. This app extends your memory bank digitally.
 

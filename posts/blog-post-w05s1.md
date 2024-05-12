@@ -26,7 +26,7 @@ While I attempted to make it very simple, I found myself adding more and more sq
 Overall, this was a good exercise in using Illustrator as well as refining things to their most simple form.
 
 ## Progress
-![Icon Drafts](/w05s1/icon-draft.png)
+![Icon Drafts](/w05s1/icon-draft.PNG)
 Here is the current iteration of my icons. As you can tell I have scrapped the settings icon and replaced it with a bin, decided on designs, as well as come up with dice for the randomiser. Happy with the progress so far. 
 
 HOWEVER, I am unhappy with how they look as a family

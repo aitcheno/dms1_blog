@@ -19,7 +19,7 @@ Speaking of my project. This is the final state in Illustrator
 Very messy. I was unsure of how I should use the space and workflow. Being vectors I could have worked in a smaller area but I feel a bit more creative with the mess. Something to work on for sure.
 
 Here is a screenshot of my final uploaded designs in the preview.
-![Final Website](/w06s2/so-far.PNG)
+![Final Website](/w06s2/results.PNG)
 
 Now to begin working on this memory bank enhancer.
 

@@ -13,6 +13,8 @@ I have worked further on the textures and assets and have created the more comfo
 ![Room 2](/w08s2/room3.PNG)
 I used a simple plaster texture for the walls and made it a nice dark green. I decorated the room with assets that I'd say make a room quite cosy. I wanted the room to feel a lot more welcoming than the spawn room.
 
+I added buildings for outside for the first room. I'll make sure to add a screenshot here.
+
 ### Blender Attempt
 I had a crack at making my own asset for the temple/shrine. This was because I couldn't find a suitable one somebody else has made that would house the cat statue...
 ![Blender](/w08s2/blender1.PNG)

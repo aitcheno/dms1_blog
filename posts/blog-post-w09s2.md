@@ -1,5 +1,5 @@
 ---
-title: Blog Post 6 Week Nine Session Two Playtesting
+title: Blog Post 6 Week Nine Session Two Finishing Touches
 published_at: 2024-05-19
 disable_html_sanitization: true
 ---
@@ -31,9 +31,24 @@ Here is the final zoomout, without the used skybox, just so you can see everythi
 
 
 ## Concept Reflection
+The meaningful change I have chosen to focus my environment on is becoming a cat owner.
 
+Almost all of my life, I hadn't really been exposed to cats. All my friends and family had dogs, so cats, as a pet, were very foreign to me.
 
-## Playtesting
+For my 18th birthday my Mum gifted me a kitten. I was flawed by how small he was. I named him Hugo
+
+The amount of comfort and happiness he brings to everyday life is immeasurable and I wanted to capture that in this environment.
+
+The environment begins very sterile, cramped and dissonant, before leading into a more comforting, spacious and warm lit environment. The player is encouraged to explore, much like a cat would, and this leads them into an outdoor environment.
+
+They follow the path, with tranquil ambient sounds, until they are greeted with a kind of cat shrine where tones ring out forever in an environmental bliss.
+
+The environment feels very controlled, with walls always closing the player in. This was to capture how I had no control in receiving a cat. It was a gift, that means a whole lot more than any material object.
+
+Overall, I have tried to capture the sudden tranquility I felt when I became the owner of my cat.
+
+Here he is supervising my work.
+![Hugo](/w09s2/hugo2.jpg)
 
 
 ## Screen Recording

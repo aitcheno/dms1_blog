@@ -1,6 +1,6 @@
 ---
 title: Blog Post 2 Week Ten Session Two Web Design Basics
-published_at: 2024-05-24
+published_at: 2024-05-27
 disable_html_sanitization: true
 ---
 ## Figma!

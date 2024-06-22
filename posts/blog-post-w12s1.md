@@ -9,8 +9,10 @@ I've added in all the text and added some final reflection points about my traje
 
 ## Animating
 Here are some progress photos of me animating the webpage. 
+
 ![Animating1](/w12s1/animating.PNG)
 ![Animating2](/w12s1/animations.PNG)
+
 The process involved turning the section into a component, duplicating the component so you could create separate states, and then choosing the order the states and how they would function.
 
 Take me back to powerpoint animations please!

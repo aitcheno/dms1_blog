@@ -1,6 +1,6 @@
 ---
 title: Blog Post 3 Week Eleven Session One Wireframing
-published_at: 2024-05-24
+published_at: 2024-05-30
 disable_html_sanitization: true
 ---
 ## Wireframing a Website From Memory

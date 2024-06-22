@@ -17,7 +17,7 @@ It adds a nice playful element and I've tried to position them so that the balan
 
 I continued this for each Assignment and just filled in where the text would go with some lorem ipsum I created myself. High level stuff
 
-![Whole Timeline](/w11s2/ipsumimage.PNG)
+![Whole Timeline](/w11s2/ipsemimage.PNG)
 Looking okay so far. A bit unimpressed by the solid background, I think I can try something a bit more sleak and less outdated. Still lots to add and then animate to make it all come together.
 
 
